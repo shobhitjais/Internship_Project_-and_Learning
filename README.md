@@ -121,17 +121,6 @@ Enable automated refresh with cloud data sources
 
 Implement role-based access for placement managers
 
-👤 Author
-
-Shobhit Jaiswal
-Entry-Level Data Analyst
-📍 Bengaluru, India
-
-🔗 LinkedIn
-
-🔗 GitHub
-
-
 Compress this into a 30-second recruiter version
 
-Write a 1-line GitHub re
+Write a 1-lin
