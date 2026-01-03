@@ -122,5 +122,3 @@ Enable automated refresh with cloud data sources
 Implement role-based access for placement managers
 
 Compress this into a 30-second recruiter version
-
-Write a 1-lin
